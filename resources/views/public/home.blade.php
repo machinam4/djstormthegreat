@@ -169,9 +169,9 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                         <div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/sortm_event (1).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/sortm_event (1).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/sortm_event (1).jpeg') }}"
+                                        src="{{ asset('assets/images/events/sortm_event (1).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -189,9 +189,9 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                         <div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/sortm_event (2).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/sortm_event (2).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/sortm_event (2).jpeg') }}"
+                                        src="{{ asset('assets/images/events/sortm_event (2).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -207,9 +207,9 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                         <div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/sortm_event (3).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/sortm_event (3).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/sortm_event (3).jpeg') }}"
+                                        src="{{ asset('assets/images/events/sortm_event (3).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -225,9 +225,9 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                         <div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/sortm_event (4).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/sortm_event (4).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/sortm_event (4).jpeg') }}"
+                                        src="{{ asset('assets/images/events/sortm_event (4).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -243,9 +243,9 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                         <div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/sortm_event (5).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/sortm_event (5).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/sortm_event (5).jpeg') }}"
+                                        src="{{ asset('assets/images/events/sortm_event (5).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -261,9 +261,9 @@
                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6">
                         <div class="kf-menu-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/sortm_event (6).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/sortm_event (6).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/sortm_event (6).jpeg') }}"
+                                        src="{{ asset('assets/images/events/sortm_event (6).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -389,9 +389,9 @@
 
                         <div class="slide-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/storm_event (1).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/storm_event (1).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/storm_event (1).jpeg') }}"
+                                        src="{{ asset('assets/images/events/storm_event (1).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -404,9 +404,9 @@
 
                         <div class="slide-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/storm_event (2).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/storm_event (2).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/storm_event (2).jpeg') }}"
+                                        src="{{ asset('assets/images/events/storm_event (2).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -419,9 +419,9 @@
 
                         <div class="slide-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/storm_event (3).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/storm_event (3).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/storm_event (3).jpeg') }}"
+                                        src="{{ asset('assets/images/events/storm_event (3).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -434,9 +434,9 @@
 
                         <div class="slide-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/storm_event (4).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/storm_event (4).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/storm_event (4).jpeg') }}"
+                                        src="{{ asset('assets/images/events/storm_event (4).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -449,9 +449,9 @@
 
                         <div class="slide-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/storm_event (5).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/storm_event (5).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/storm_event (5).jpeg') }}"
+                                        src="{{ asset('assets/images/events/storm_event (5).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -464,9 +464,9 @@
 
                         <div class="slide-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/storm_event (6).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/storm_event (6).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/storm_event (6).jpeg') }}"
+                                        src="{{ asset('assets/images/events/storm_event (6).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -479,9 +479,9 @@
 
                         <div class="slide-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/storm_event (7).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/storm_event (7).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/storm_event (7).jpeg') }}"
+                                        src="{{ asset('assets/images/events/storm_event (7).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -494,9 +494,9 @@
 
                         <div class="slide-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/storm_event (8).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/storm_event (8).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/storm_event (8).jpeg') }}"
+                                        src="{{ asset('assets/images/events/storm_event (8).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -509,9 +509,9 @@
 
                         <div class="slide-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/storm_event (9).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/storm_event (9).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/storm_event (9).jpeg') }}"
+                                        src="{{ asset('assets/images/events/storm_event (9).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">
@@ -524,9 +524,9 @@
 
                         <div class="slide-item element-anim-1 scroll-animate" data-animate="active">
                             <div class="image kf-image-hover">
-                                <a href="{{ asset('assets/images/events/storm_event (10).jpeg') }}"
+                                <a href="{{ asset('assets/images/events/storm_event (10).webp') }}"
                                     class="has-popup-image"><img
-                                        src="{{ asset('assets/images/events/storm_event (10).jpeg') }}"
+                                        src="{{ asset('assets/images/events/storm_event (10).webp') }}"
                                         alt="" /></a>
                             </div>
                             <div class="desc">

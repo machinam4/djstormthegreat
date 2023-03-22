@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="HandheldFriendly" content="true">
-    <link rel="icon" href="{{ asset('assets/images/logo.png') }}" type="image/x-icon">
+    <link rel="icon" href="{{ asset('assets/images/logo.webp') }}" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link
@@ -37,7 +37,7 @@
             <div class="centrize full-width">
                 <div class="vertical-center">
                     <div class="spinner-logo">
-                        <img src="{{ asset('assets/images/logo.png') }}" alt="" />
+                        <img src="{{ asset('assets/images/logo.webp') }}" alt="" />
                         <div class="spinner-dot">
                             <div class="spinner-line"></div>
                         </div>
@@ -80,7 +80,7 @@
 
                         <!-- logo -->
                         <div class="kf-logo">
-                            <a href="{{ Route('home') }}"><img src="{{ asset('assets/images/logo.png') }}"
+                            <a href="{{ Route('home') }}"><img src="{{ asset('assets/images/logo.webp') }}"
                                     alt="" /></a>
                         </div>
 
@@ -185,7 +185,7 @@
 
             <!-- Section CTA -->
             <section class="section kf-cta kf-parallax"
-                style="background-image: url({{ asset('assets/images/cta_bg.jpg') }});">
+                style="background-image: url({{ asset('assets/images/storm_cta.webp') }});">
                 <div class="container">
 
                     <div class="row">
@@ -193,7 +193,7 @@
 
                             <div class="kf-titles">
                                 <div class="kf-subtitle element-anim-1 scroll-animate" data-animate="active">
-                                    Need a DJ for your Event On Coffee House
+                                    Need a DJ for your Event
                                 </div>
                                 <h3 class="kf-title element-anim-1 scroll-animate" data-animate="active">
                                     Booking DJ Storm The Great
@@ -286,7 +286,7 @@
 
                         <!-- logo -->
                         <div class="kf-logo element-anim-1 scroll-animate" data-animate="active">
-                            <a href="{{ Route('home') }}"><img src="{{ asset('assets/images/logo.png') }}"
+                            <a href="{{ Route('home') }}"><img src="{{ asset('assets/images/logo.webp') }}"
                                     alt="" /></a>
                         </div>
 
@@ -344,39 +344,39 @@
                             <h5>Gallery</h5>
                             <ul>
                                 <li>
-                                    <a href="{{ asset('assets/images/events/storm_event (1).jpeg') }}"
+                                    <a href="{{ asset('assets/images/events/storm_event (1).webp') }}"
                                         class="kf-image-hover has-popup-image"><img
-                                            src="{{ asset('assets/images/events/storm_event (1).jpeg') }}"
+                                            src="{{ asset('assets/images/events/storm_event (1).webp') }}"
                                             alt="" /></a>
                                 </li>
                                 <li>
-                                    <a href="{{ asset('assets/images/events/storm_event (2).jpeg') }}"
+                                    <a href="{{ asset('assets/images/events/storm_event (2).webp') }}"
                                         class="kf-image-hover has-popup-image"><img
-                                            src="{{ asset('assets/images/events/storm_event (2).jpeg') }}"
+                                            src="{{ asset('assets/images/events/storm_event (2).webp') }}"
                                             alt="" /></a>
                                 </li>
                                 <li>
-                                    <a href="{{ asset('assets/images/events/storm_event (3).jpeg') }}"
+                                    <a href="{{ asset('assets/images/events/storm_event (3).webp') }}"
                                         class="kf-image-hover has-popup-image"><img
-                                            src="{{ asset('assets/images/events/storm_event (3).jpeg') }}"
+                                            src="{{ asset('assets/images/events/storm_event (3).webp') }}"
                                             alt="" /></a>
                                 </li>
                                 <li>
-                                    <a href="{{ asset('assets/images/events/storm_event (4).jpeg') }}"
+                                    <a href="{{ asset('assets/images/events/storm_event (4).webp') }}"
                                         class="kf-image-hover has-popup-image"><img
-                                            src="{{ asset('assets/images/events/storm_event (4).jpeg') }}"
+                                            src="{{ asset('assets/images/events/storm_event (4).webp') }}"
                                             alt="" /></a>
                                 </li>
                                 <li>
-                                    <a href="{{ asset('assets/images/events/storm_event (5).jpeg') }}"
+                                    <a href="{{ asset('assets/images/events/storm_event (5).webp') }}"
                                         class="kf-image-hover has-popup-image"><img
-                                            src="{{ asset('assets/images/events/storm_event (5).jpeg') }}"
+                                            src="{{ asset('assets/images/events/storm_event (5).webp') }}"
                                             alt="" /></a>
                                 </li>
                                 <li>
-                                    <a href="{{ asset('assets/images/events/storm_event (6).jpeg') }}"
+                                    <a href="{{ asset('assets/images/events/storm_event (6).webp') }}"
                                         class="kf-image-hover has-popup-image"><img
-                                            src="{{ asset('assets/images/events/storm_event (6).jpeg') }}"
+                                            src="{{ asset('assets/images/events/storm_event (6).webp') }}"
                                             alt="" /></a>
                                 </li>
                             </ul>
